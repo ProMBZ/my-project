@@ -24,4 +24,4 @@ This Streamlit application allows users to upload PDF files and ask questions ab
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ProMBZ/my-project/
